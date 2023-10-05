@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".community_Activity">
+
+    <Button
+        android:id="@+id/Telegram2"
+        android:layout_width="305dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="292dp"
+        android:fontFamily="sans-serif"
+        android:text="Route Sharing "
+        android:textColorLink="#73A9B6"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Telegram3"
+        android:layout_width="305dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="412dp"
+        android:fontFamily="sans-serif"
+        android:text="Hackathon Partner"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="331dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="36dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Join your communities here!"
+        android:textColor="#150101"
+        android:textSize="26sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Telegram1"
+        android:layout_width="305dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="164dp"
+        android:fontFamily="sans-serif"
+        android:text="Room Finder "
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColorLink="#73A9B6"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
