@@ -33,6 +33,8 @@ finding rooms, routes, and hackathon partners.**
 
 ### Download Stuckart pre-releases from here 👇
 
+https://github.com/mohit-dhote/StucKart-App-Campus-Marketplace-App/releases/tag/v1.0.2-beta
+
 
 
 
