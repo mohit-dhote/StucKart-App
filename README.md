@@ -12,14 +12,18 @@ finding rooms, routes, and hackathon partners.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/mohit-dhote/StucKart-App/assets/89855871/dafe6e46-b440-4344-9789-ecb774495a6a" width="200"/>
+  
   <img src="https://github.com/mohit-dhote/StucKart-App/assets/89855871/dad3e4a4-17a3-487e-9896-437722c75337" width="200"/>
+  
   <img src="https://github.com/mohit-dhote/StucKart-App/assets/89855871/e8738c58-bc06-42d6-a30e-d674dce95a36" width="200"/>
+  
   <img src="https://github.com/mohit-dhote/StucKart-App/assets/89855871/5017be4a-e63e-44ef-894f-1795468bb287" width="200"/>
+  
   <img src="https://github.com/mohit-dhote/StucKart-App/assets/89855871/dac68129-b220-40ee-9aa9-2a91a6a81fdc" width="200"/>
 </div>
 
 
-• Download Stuckart pre-releases from here 👇
+# Download Stuckart pre-releases from here 👇
 
 
 
