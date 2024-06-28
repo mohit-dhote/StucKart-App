@@ -1,5 +1,5 @@
 # StucKart-App
-### General Overview: 
+## General Overview: 
 
 • Stuckart Is a Marketplace Application for students in college, students can sell their old books, gadgets, and many more goods. They can find Their Housing, roommates, Rootesharing &amp; carpooling, etc on our community Groups. This is a revolutionary app for college students.**
 
@@ -31,7 +31,7 @@ finding rooms, routes, and hackathon partners.**
   <img src="https://github.com/mohit-dhote/StucKart-App/assets/89855871/bf04e045-fe46-4e0e-a8ec-bfbb79d56ccf" width="200"/>
 </div>
 
-## Download Stuckart pre-releases from here 👇
+### Download Stuckart pre-releases from here 👇
 
 
 
