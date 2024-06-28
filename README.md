@@ -3,12 +3,12 @@ General Overview:
 Stuckart Is a Marketplace Application for students in the college, students can sell their old books, gadgets, and many more goods. They can find Their Housing, roommates, Rootesharing &amp; carpooling, etc on our community Groups. This is a revolutionary app for college students. 
 
 • Created an Android app for students to list and trade secondhand goods, promoting easier and more sustainable
-exchanges on campus.
+exchanges on campus.**
 • Accomplished 10+ hours of weekly savings by implementing an automated community platform to streamline
-finding rooms, routes, and hackathon partners.
-• Integrated Google Maps API and Firebase, cutting crashes by 15% and increasing retention by 25%
+finding rooms, routes, and hackathon partners.**
+• Integrated Google Maps API and Firebase, cutting crashes by 15% and increasing retention by 25%.**
 
-# Screenshots of the app:
+## Screenshots of the app:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/mohit-dhote/StucKart-App/assets/89855871/dafe6e46-b440-4344-9789-ecb774495a6a" width="200"/>
@@ -23,7 +23,7 @@ finding rooms, routes, and hackathon partners.
 </div>
 
 
-# Download Stuckart pre-releases from here 👇
+## Download Stuckart pre-releases from here 👇
 
 
 
